@@ -9,5 +9,5 @@ public class TieTuKuInfo
 
 	public static String SECREKEY = "da39a3ee5e6b4b0d3255bfef95601890afd80709";
 
-	public static String UPLOAD_API = "http://api.tietuku.com/v1/Up";
+	public static String UPLOAD_API = "http://up.tietuku.com/";
 }
